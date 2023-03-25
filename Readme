@@ -1,1 +1,7 @@
+Controller is a ESP32-S3-WROOM-1.
 
+Keyswitches are Cherry MX.
+
+Up arrow tied to boot button.
+
+This board has not been tested and likely does not work. You should not make it.
